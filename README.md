@@ -52,7 +52,7 @@ Mettre en place une surprime ciblée dès la souscription pour les jeunes conduc
 
 ## Aperçu du dashboard
 
-![Vue d'ensemble du dashboard](Ratio Loss Auto-1.pdf)
+![Vue d'ensemble du dashboard]([Ratio Loss Auto-1.pdf](https://github.com/essoreke-analyse/powerbi-tarification-assurance/blob/main/Ratio%20Loss%20Auto-1.pdf))
 
 
 
