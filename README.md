@@ -75,4 +75,4 @@ Mettre en place une surprime ciblée dès la souscription pour les jeunes conduc
 
 ## Contact
 
-Essoréké KIHEOU — [LinkedIn](#) — essorekekiheou@gmail.com
+Essoréké KIHEOU - [LinkedIn](https://www.linkedin.com/in/essor%C3%A9k%C3%A9-kiheou-93996541b) - essorekekiheou@gmail.com
