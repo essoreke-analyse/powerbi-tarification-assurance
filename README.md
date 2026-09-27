@@ -64,13 +64,14 @@ Mettre en place une surprime ciblée dès la souscription pour les jeunes conduc
 
 ## Structure du repo
 
-
+```
 ├── README.md
 ├── dashboard.pbix
 ├── screenshots/
 └── docs/
-├── note-cadrage.md
-└── methodologie.md
+    ├── note-cadrage.md
+    └── methodologie.md
+```
 
 
 ## Contact
