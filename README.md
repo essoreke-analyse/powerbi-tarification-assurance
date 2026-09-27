@@ -1,4 +1,4 @@
-# powerbi-tarification-assurance
+# Powerbi-tarification-assurance
 Dashboard Power BI - Diagnostic de la sinistralité auto et modélisation d'une prime actuarielle
 
 # 🚗 Diagnostic Loss Ratio - Assurance Auto
