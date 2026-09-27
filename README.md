@@ -51,8 +51,7 @@ Mettre en place une surprime ciblée dès la souscription pour les jeunes conduc
 - Dataset figé dans le temps (pas de flux temps réel)
 
 ## Aperçu du dashboard
-
-
+![Vue d'ensemble du dashboard](dashboard-overview.png)
 📄 [Voir le dashboard complet (PDF)](Ratio%20Loss%20Auto-1.pdf)
 
 
