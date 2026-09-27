@@ -52,9 +52,9 @@ Mettre en place une surprime ciblée dès la souscription pour les jeunes conduc
 
 ## Aperçu du dashboard
 
-![Vue d'ensemble du dashboard](screenshots/dashboard-overview.png)
+![Vue d'ensemble du dashboard](dashboard-overview.png)
 
-![Arborescence de décomposition interactive](screenshots/decomposition-tree.png)
+##![Arborescence de décomposition interactive](screenshots/decomposition-tree.png)
 
 ## Stack technique
 
